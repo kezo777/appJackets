@@ -1,6 +1,6 @@
 ﻿Public Class Form1
     Private Sub btnPrice_Click(sender As Object, e As EventArgs) Handles btnPrice.Click
-
+''pain in the butt
         Dim dblPrice As Double
         Dim objPrice As New jacket
         Dim strSize As String
