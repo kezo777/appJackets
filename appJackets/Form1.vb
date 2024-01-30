@@ -2,6 +2,9 @@
     Private Sub btnPrice_Click(sender As Object, e As EventArgs) Handles btnPrice.Click
 ''comment
         ''changethis into something,Nigelle
+
+''this is a MASSIVE pain in a ....
+        
         Dim dblPrice As Double
         Dim objPrice As New jacket
         Dim strSize As String
